@@ -15,11 +15,12 @@ This repository contains the backend API services for the MarketBridge platform,
 - PostgreSQL
 
 ## Setup and Installation
-<Pending>
+(Include instructions on how to get the project running locally)
 
 ## Contribution Guidelines
-<Pending>
+(Instructions for developers looking to contribute to the project)
 
 ## License
-<Pending>
+(Information about the project's license)
+
 
